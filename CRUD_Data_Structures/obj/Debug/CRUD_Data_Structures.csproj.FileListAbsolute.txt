@@ -1,0 +1,7 @@
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\CRUD_Data_Structures\bin\Debug\CRUD_Data_Structures.exe.config
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\CRUD_Data_Structures\bin\Debug\CRUD_Data_Structures.exe
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\CRUD_Data_Structures\bin\Debug\CRUD_Data_Structures.pdb
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\CRUD_Data_Structures\obj\Debug\CRUD_Data_Structures.csproj.AssemblyReference.cache
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\CRUD_Data_Structures\obj\Debug\CRUD_Data_Structures.csproj.CoreCompileInputs.cache
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\CRUD_Data_Structures\obj\Debug\CRUD_Data_Structures.exe
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\CRUD_Data_Structures\obj\Debug\CRUD_Data_Structures.pdb

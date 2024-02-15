@@ -1,0 +1,7 @@
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\MyDiagnostic\bin\Debug\MyDiagnostic.exe.config
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\MyDiagnostic\bin\Debug\MyDiagnostic.exe
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\MyDiagnostic\bin\Debug\MyDiagnostic.pdb
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\MyDiagnostic\obj\Debug\MyDiagnostic.csproj.AssemblyReference.cache
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\MyDiagnostic\obj\Debug\MyDiagnostic.csproj.CoreCompileInputs.cache
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\MyDiagnostic\obj\Debug\MyDiagnostic.exe
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\MyDiagnostic\obj\Debug\MyDiagnostic.pdb
