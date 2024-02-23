@@ -1,0 +1,7 @@
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\NumCounter\bin\Debug\NumCounter.exe.config
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\NumCounter\bin\Debug\NumCounter.exe
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\NumCounter\bin\Debug\NumCounter.pdb
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\NumCounter\obj\Debug\NumCounter.csproj.AssemblyReference.cache
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\NumCounter\obj\Debug\NumCounter.csproj.CoreCompileInputs.cache
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\NumCounter\obj\Debug\NumCounter.exe
+C:\Users\Sheyk Lucifer\source\repos\MyDiagnostic\NumCounter\obj\Debug\NumCounter.pdb
